@@ -1,6 +1,3 @@
-# dustinlush.github.io
-[Crispymax Web App.html](https://github.com/user-attachments/files/27408503/Crispymax.Web.App.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
